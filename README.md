@@ -1,5 +1,6 @@
 # Graphical-Programs
-@ Author: Michael Koslowski
+Author: Michael Koslowski
+
 The following is a wavefront.obj converter. It is a basic converter, that I use to create raw model files which are directly used by my OpenGL program. 
 Its goal is to combine Vertex-Coordinates, Texture-Coordinates and Normals and to delete any duplicates. The correct order is saved by the indices. Also any redundant text, newLines and leading zero's are deleted.
 
