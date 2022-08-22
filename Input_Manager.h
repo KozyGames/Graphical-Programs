@@ -1,4 +1,9 @@
 #pragma once
+/* @author Michael Koslowski
+*
+* Last Revision: 22.08.2022
+*/
+
 #include "Model_Converter.h"
 
 #include <unordered_map>
